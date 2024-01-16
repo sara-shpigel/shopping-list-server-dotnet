@@ -1,4 +1,5 @@
-הקמת הDB:
+For create the DB, pleas run this:
+
 CREATE DATABASE shopping_list;
 
 USE shopping_list;
