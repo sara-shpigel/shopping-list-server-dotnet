@@ -1,8 +1,8 @@
 For create the DB, pleas run this:
 
-CREATE DATABASE shopping_list;
+CREATE DATABASE shopping-list;
 
-USE shopping_list;
+USE shopping-list;
 
 CREATE TABLE `categories` (
   `id` int NOT NULL AUTO_INCREMENT,
